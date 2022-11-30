@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Alimentary Grocery</string>
+    <string name="Splash_Text">Grocery Store</string>
+    <string name="Splash_Welcome">Welcome To</string>
+    <string name="Grocery_Text_name">Name :</string>
+    <string name="Grocery_Text_Hint_Name">Potato</string>
+    <string name="Grocery_Text_Category">Category :</string>
+    <string name="Grocery_Text_Quantity">Quantity :</string>
+    <string name="Grocery_Text_Quantity_Hint">Quantity</string>
+    <string name="Grocery_Text_Unit">Units  :</string>
+    <string name="Grocery_Text_Price">Price :</string>
+    <string name="Grocery_Text_Price_Hint">Price </string>
+    <string name="BTN_SUBMIT">SUBMIT</string>
+    <string name="BTN_ADD">ADD</string>
+    <string name="BTN_UPDATE">UPDATE</string>
+    <string name="BTN_DELETE">DELETE</string>
+    <string name="BTN_SHOW">SHOW</string>
+    <string-array name="categories">
+        <item>Vegetables</item>
+        <item>Meat</item>
+        <item>Dairy</item>
+        <item>Bakery</item>
+        <item>Frozen</item>
+        <item>Fruits</item>
+        <item>Medicines</item>
+        <item>Baby Food</item>
+        <item>Cereals</item>
+        <item>Sauces and Condiments</item>
+        <item>Herbs and spices</item>
+        <item>Soaps and Detergents</item>
+        <item>Baby Products</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="units">
+        <item>Kg</item>
+        <item>g</item>
+        <item>l</item>
+        <item>ml</item>
+        <item>pcs</item>
+    </string-array>
+</resources>
